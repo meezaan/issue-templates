@@ -34,7 +34,7 @@
 ## *Who* is this affecting?
 <!-- Ex. All supervisors, Developers, CEO, Janitor... -->
 
-## *What* is affected by this bug?
+## *What* is affected?
 <!-- Ex. Development, testing, selling, procuring -->
 
 ## *When* does this occur?
